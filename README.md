@@ -1,5 +1,6 @@
 ## Hi there 👋
-## I'm currently learning C
+## I'm a student currently learning C and fundamentals of CS. 
+## Experince with C++ and Python. 
 
 <!--
 **teocabrera/teocabrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
